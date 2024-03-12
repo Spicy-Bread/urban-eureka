@@ -1,2 +1,4 @@
+Version 1.0.1
+	-Fixed Textbox for IP2
 Version 1.0.0
 	-Added AutoUpdate
