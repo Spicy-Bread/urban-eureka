@@ -1,2 +1,23 @@
+Version 0.3.1
+-G600 traffic alerts disabled when on the ground
+-G600 - Airspeed is dashed lines until it reaches 20 knots
+-Traffic alerts disabled when battery is off
+-Back Button improvments 
+-Traffic Alert pop up and disable button to silence the alert
+-User can now enter Minimums
+-Terrain Page now works for the lower 48 states
+-Range rings on main map are now acurrate and stay in place when zooming 
+-Range rings on traffic map are now accurate. 
+-Improved refresh rate on some data. (should appear smoother) 
+-North up above 30 nm(this will be user controlled in a future update.)
+-North up arrow on main map page will now toggle between North up and Track Up. 
+-Zoom range rings on main map zooms in steps 500FT 1500FT 0.5 NM 1,2,5,10,20,30,50,75,100,200,300,500,800 NM
+-Range Rings on Terrain Page are now 1, 2, 5, 10, 15, 25,50,100 NM 
+
+-Traffic page background now black. 
+
+
+
 Version 0.0.2
 	-Added AutoUpdate
+	
