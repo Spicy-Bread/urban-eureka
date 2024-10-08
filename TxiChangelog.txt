@@ -1,3 +1,18 @@
+Version 0.3.2
+-Added Digital Obstacle file with color renderings for proximity, viewable on HSI map, Main Map and Terrain Map.
+-Fixed issue with the Zero Pitch Line on the SVT being off-axis in banks. 
+-Made SVT heading label text more visible 
+-Changed the refreshing rate of some data. 
+-Changed SVT apperaance slightly.
+-Can now toggle AGL readout. 
+-MDA Bug changes colors per pilots guide. 
+-Minimums audio now only play when decesnding below MDA
+-Vertical Speed button can now be toggled on and off. 
+-LDI now shows navaid ID
+-Varoius performance improvements. 
+-Changed metar flag symbols. 
+
+
 Version 0.3.1
 -G600 traffic alerts disabled when on the ground
 -G600 - Airspeed is dashed lines until it reaches 20 knots
