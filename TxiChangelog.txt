@@ -1,17 +1,19 @@
 Version 0.3.3
-Added Airport signs for airports in the synthetic vision view. 
-Added topogaphic map toggle to main map and HSI map. 
-Added noise when finger slides off of button of touchscreen
+Added Airport signs for airports in the synthetic vision view.
+Added topographic map toggle to main map and HSI map.
+Added noise when finger slides off of button of touchscreen.
 Added music page functionality.
 Added toggle buttons for Airport signs.
-Added toggle button for Horizion Heading sign.
-Fixed graphical error on zero pitch line when in full screen mode. 
-Removed red debug graphic from ZPL. 
-Speedtape is now reading some data from the .acf file. 
-TXi can now be assinged to an individual bus.
-TXi will now shutdown if the selected bus goes below 14V. 
-Changed flight plan page active leg graphic. 
-Various perfomance enhancmenets and optomizations to reduce memory and CPU usage. 
+Added toggle button for Horizon Heading sign.
+Fixed issue when user would forget to add a decimal to the altimeter would send altimeter value way outside of bounds.
+Fixed graphical error on zero pitch line when in full screen mode.
+Changed appearance of water layers when topo mode is turned off.
+Removed red debug graphic from ZPL.
+Speedtape is now reading some data from the .acf file.
+TXi can now be assigned to an individual bus.
+TXi will now shutdown if the selected bus goes below 14V.
+Changed flight plan page active leg graphic.
+Various performance enhancements and optimizations to reduce memory and CPU usage.
 
 
 Version 0.3.2
