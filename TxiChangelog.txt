@@ -14,6 +14,8 @@ TXi can now be assigned to an individual bus.
 TXi will now shutdown if the selected bus goes below 14V.
 Changed flight plan page active leg graphic.
 Various performance enhancements and optimizations to reduce memory and CPU usage.
+Added subpage for system settings instead of it being directly on the pause grid.
+
 
 
 Version 0.3.2
