@@ -1,3 +1,19 @@
+Version 0.3.3
+Added Airport signs for airports in the synthetic vision view. 
+Added topogaphic map toggle to main map and HSI map. 
+Added noise when finger slides off of button of touchscreen
+Added music page functionality.
+Added toggle buttons for Airport signs.
+Added toggle button for Horizion Heading sign.
+Fixed graphical error on zero pitch line when in full screen mode. 
+Removed red debug graphic from ZPL. 
+Speedtape is now reading some data from the .acf file. 
+TXi can now be assinged to an individual bus.
+TXi will now shutdown if the selected bus goes below 14V. 
+Changed flight plan page active leg graphic. 
+Various perfomance enhancmenets and optomizations to reduce memory and CPU usage. 
+
+
 Version 0.3.2
 -Added Digital Obstacle file with color renderings for proximity, viewable on HSI map, Main Map and Terrain Map.
 -Fixed issue with the Zero Pitch Line on the SVT being off-axis in banks. 
