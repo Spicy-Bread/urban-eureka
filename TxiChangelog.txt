@@ -1,3 +1,34 @@
+Version 0.3.4
+
+Added yellow alert minimums call out to PFD messages when decending down past mins.
+Added red alert call out to PFD when HDG fails. 
+Added runway outlines to SVT for nearby airports based on relative heading to RW, flight plan and other logic .
+Added runway scale effect when on approach for the selected runway in flight plan. 
+Removed taxiway outlines from SVT.
+Improved knob functionality.
+Created logic to ramp knob turning speed (works for FLC speeds, ALT pre select). 
+Added yellow alert callout to PFD messages for traffic alerts.
+Added SmartAirspace functionality(WIP)
+Gramin On Screen Keyboard can now be used with the knobs. 
+Smoothed data for FPV (less jitter)
+Smoothed lat long data for SVT(less jiter)
+Added Baro STD functionality 
+User can now swipe finger on volumne slider graphic to change vol. 
+IAS, HDG, CRS, VS, ALT sub menus now show the current value on the selection button. 
+Knob logic resets after a specifed period of time back to HDG. 
+Changed graphics for PFD IAS, HDG, ALT, IAS, VS buttons to have proper background color and border color. 
+Changed background graphics for traffic symbols on map. 
+Changed background graphic for flight plan text points drawn on map. 
+Changed logic on Flight Plan Footer on PFD so the range is truncated when over 100NM from next waypoint(less than 100 miles = ###.#, greater than 100 miles decimal point is dropped.
+Terrain page now draws all tiles instead of staying at a max of 9 tiles. 
+User can no longer pan on terrain page. 
+Nearest airport page added.
+The distance and the course label now update on the airport page based on actual distance and course 
+Various performance enhancements and optimizations to reduce memory and CPU usage.
+
+
+
+
 Version 0.3.3
 Added Airport signs for airports in the synthetic vision view.
 Added topographic map toggle to main map and HSI map.
