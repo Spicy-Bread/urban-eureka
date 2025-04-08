@@ -4,7 +4,7 @@ Version 0.3.7
 -Airport signs taxt label now have a background graphic. 
 -Added WX radar playback. 
 -Airport page now autoloads nearest airport.
-
+-Added Altitude Capture Arc. 
 Version 0.3.4
 
 Added yellow alert minimums call out to PFD messages when decending down past mins.
