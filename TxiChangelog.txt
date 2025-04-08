@@ -1,3 +1,9 @@
+Version 0.3.6
+-Added AP scoreboard/FD when aircraft has proper acf setup
+-Added white hashmarks to AGL tape on altitude tape
+-Added SMARTAIRSPACE 
+
+
 Version 0.3.4
 
 Added yellow alert minimums call out to PFD messages when decending down past mins.
