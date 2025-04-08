@@ -1,8 +1,9 @@
-Version 0.3.6
+Version 0.3.7
 -Added AP scoreboard/FD when aircraft has proper acf setup
 -Added white hashmarks to AGL tape on altitude tape
--Added SMARTAIRSPACE 
-
+-Airport signs taxt label now have a background graphic. 
+-Added WX radar playback. 
+-Airport page now autoloads nearest airport.
 
 Version 0.3.4
 
