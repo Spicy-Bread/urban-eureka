@@ -1,12 +1,14 @@
 Version 0.3.7
+
 -Added AP scoreboard/FD when aircraft has proper acf setup
 -Added white hashmarks to AGL tape on altitude tape
 -Airport signs taxt label now have a background graphic. 
 -Added WX radar playback. 
 -Airport page now autoloads nearest airport.
 -Added Altitude Capture Arc. 
-Version 0.3.4
+-Added runway details page accessiable from airport page. 
 
+Version 0.3.4
 Added yellow alert minimums call out to PFD messages when decending down past mins.
 Added red alert call out to PFD when HDG fails. 
 Added runway outlines to SVT for nearby airports based on relative heading to RW, flight plan and other logic .
