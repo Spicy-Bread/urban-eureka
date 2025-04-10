@@ -2,11 +2,18 @@ Version 0.3.7
 
 -Added AP scoreboard/FD when aircraft has proper acf setup
 -Added white hashmarks to AGL tape on altitude tape
--Airport signs taxt label now have a background graphic. 
--Added WX radar playback. 
+-Airport signs text label now have a background graphic. 
+-Added WX Nexrad playback. 
 -Airport page now autoloads nearest airport.
 -Added Altitude Capture Arc. 
 -Added runway details page accessiable from airport page. 
+-Reformat settings menu 
+-Added Key Verifcation
+-UI Changes.
+-Various memory and processing optimzations and enhancments. 
+-Added log file. under Logs folder. 
+-Traffic Audio will not play if sim is paused
+-Initial Intrument Repeater functionality to EZsims FIOS
 
 Version 0.3.4
 Added yellow alert minimums call out to PFD messages when decending down past mins.
