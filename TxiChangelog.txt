@@ -9,3 +9,5 @@ Version 2.1.0
 -App returns focus to P3D, MSFS, XPLANE after touch interaction. 
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
+-Push to sync encoder when in HDG mode working. 
+
