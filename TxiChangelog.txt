@@ -1,108 +1,13 @@
-Version 0.3.7
-
--Added AP scoreboard/FD when aircraft has proper acf setup
--Added white hashmarks to AGL tape on altitude tape
--Airport signs text label now have a background graphic. 
--Added WX Nexrad playback. 
--Airport page now autoloads nearest airport.
--Added Altitude Capture Arc. 
--Added runway details page accessiable from airport page. 
--Reformat settings menu 
--Added Key Verifcation
--UI Changes.
--Various memory and processing optimzations and enhancments. 
--Added log file. under Logs folder. 
--Traffic Audio will not play if sim is paused
--Initial Intrument Repeater functionality to EZsims FIOS
-
-Version 0.3.4
-Added yellow alert minimums call out to PFD messages when decending down past mins.
-Added red alert call out to PFD when HDG fails. 
-Added runway outlines to SVT for nearby airports based on relative heading to RW, flight plan and other logic .
-Added runway scale effect when on approach for the selected runway in flight plan. 
-Removed taxiway outlines from SVT.
-Improved knob functionality.
-Created logic to ramp knob turning speed (works for FLC speeds, ALT pre select). 
-Added yellow alert callout to PFD messages for traffic alerts.
-Added SmartAirspace functionality(WIP)
-Gramin On Screen Keyboard can now be used with the knobs. 
-Smoothed data for FPV (less jitter)
-Smoothed lat long data for SVT(less jiter)
-Added Baro STD functionality 
-User can now swipe finger on volumne slider graphic to change vol. 
-IAS, HDG, CRS, VS, ALT sub menus now show the current value on the selection button. 
-Knob logic resets after a specifed period of time back to HDG. 
-Changed graphics for PFD IAS, HDG, ALT, IAS, VS buttons to have proper background color and border color. 
-Changed background graphics for traffic symbols on map. 
-Changed background graphic for flight plan text points drawn on map. 
-Changed logic on Flight Plan Footer on PFD so the range is truncated when over 100NM from next waypoint(less than 100 miles = ###.#, greater than 100 miles decimal point is dropped.
-Terrain page now draws all tiles instead of staying at a max of 9 tiles. 
-User can no longer pan on terrain page. 
-Nearest airport page added.
-The distance and the course label now update on the airport page based on actual distance and course 
-Various performance enhancements and optimizations to reduce memory and CPU usage.
+Version 2.1.0
+-Added Offline capability. If offline, Synthetic Vision and real world weather data will be unavailable. 
+-Ground track vector map symbol added
+-Map Menu>Aviation menu items working ass indedned
+-Map layers dynamically change visibility with map zoom level
+-Added Alt Capture Arc
+-Fixed Issue with some buttons that did not work on first click
+-Added Minimumms for MSFS/XPLANE
+-App returns focus to P3D, MSFS, XPLANE after touch interaction. 
 
 
-
-
-Version 0.3.3
-Added Airport signs for airports in the synthetic vision view.
-Added topographic map toggle to main map and HSI map.
-Added noise when finger slides off of button of touchscreen.
-Added music page functionality.
-Added toggle buttons for Airport signs.
-Added toggle button for Horizon Heading sign.
-Fixed issue when user would forget to add a decimal to the altimeter would send altimeter value way outside of bounds.
-Fixed graphical error on zero pitch line when in full screen mode.
-Changed appearance of water layers when topo mode is turned off.
-Removed red debug graphic from ZPL.
-Speedtape is now reading some data from the .acf file.
-TXi can now be assigned to an individual bus.
-TXi will now shutdown if the selected bus goes below 14V.
-Changed flight plan page active leg graphic.
-Various performance enhancements and optimizations to reduce memory and CPU usage.
-Added subpage for system settings instead of it being directly on the pause grid.
-
-
-
-Version 0.3.2
--Added Digital Obstacle file with color renderings for proximity, viewable on HSI map, Main Map and Terrain Map.
--Fixed issue with the Zero Pitch Line on the SVT being off-axis in banks. 
--Made SVT heading label text more visible 
--Changed the refreshing rate of some data. 
--Changed SVT apperaance slightly.
--Can now toggle AGL readout. 
--MDA Bug changes colors per pilots guide. 
--Minimums audio now only play when decesnding below MDA
--Vertical Speed button can now be toggled on and off. 
--LDI now shows navaid ID
--Varoius performance improvements. 
--Changed metar flag symbols. 
-
-
-Version 0.3.1
--G600 traffic alerts disabled when on the ground
--G600 - Airspeed is dashed lines until it reaches 20 knots
--Traffic alerts disabled when battery is off
--Back Button improvments 
--Traffic Alert pop up and disable button to silence the alert
--User can now enter Minimums
--Terrain Page now works for the lower 48 states. 
--Range rings on main map are now acurrate and stay in place when zooming 
--Range rings on traffic map are now accurate. 
--Improved refresh rate on some data. (should appear smoother) 
--North up above 30 nm(this will be user controlled in a future update.)
--North up arrow on main map page will now toggle between North up and Track Up. 
--Zoom range rings on main map zooms in steps 500FT 1500FT 0.5 NM 1,2,5,10,20,30,50,75,100,200,300,500,800 NM
--Range Rings on Terrain Page are now 1, 2, 5, 10, 15, 25,50,100 NM 
--Range Rings on Terrain Page are now 2, 4, 6, 12, 24, 48 NM
--Using knobs to Zoom various maps should now be tied to the above map zooming logic. 
-
-
--Traffic page background now black. 
-
-
-
-Version 0.0.2
-	-Added AutoUpdate
 	
+
