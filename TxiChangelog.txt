@@ -1,3 +1,10 @@
+Version 2.2.13 (12/12/2025)
+-Fixd CTD when entering charts page when no navdata object are found near the aircraft
+-Fixd CTD when entering Airport, Navaid, Intersection when no navdata objects are found near the aircraft
+-Fixed knob functionality 
+
+
+
 Version 2.1.1 
 -Added check for program data folder. 
 -Speedtape can be configured for several aircraft profiles. 
@@ -19,6 +26,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
