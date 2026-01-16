@@ -1,5 +1,6 @@
 Version 2.2.20
 -Changed for partners to provide update endpoint URLs
+-no longer creating backup of the Navdata folder. 
 
 Version 2.2.19
 -Fixed Altimiter readout to be accurate (was off by about 20 or so feet)
@@ -38,6 +39,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
