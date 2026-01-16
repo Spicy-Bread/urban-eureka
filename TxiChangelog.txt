@@ -1,3 +1,6 @@
+Version 2.2.19
+-Fixed Altimiter readout to be accurate (was off by about 20 or so feet)
+
 Version 2.2.15(12/28/2025)
 -Fixed startup logic for all EZSims apps to better handle edge cases. 
 
@@ -32,6 +35,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
