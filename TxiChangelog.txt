@@ -1,4 +1,4 @@
-Version 2.2.21
+Version 2.2.21 (1/19/25)
 -Allow for integrators to skip NDB entirely. 
 
 Version 2.2.20
@@ -42,6 +42,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
