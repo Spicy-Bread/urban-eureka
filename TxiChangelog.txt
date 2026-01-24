@@ -1,11 +1,11 @@
-Version 2.2.22(PLANNED)
-
+Version 2.2.22(01/24/2026)
 [BASE] PFD Menu, HDG, ALT, VS, IAS, CRS, BARO entry menus now timeout. 
 [BASE] PFD Menu, HDG, ALT, VS, IAS, CRS, BARO entry menus now clear out after clicking off selected menu.
 [BASE] Initial support for multi CDI source (WIP)
 [XP] VSI bug/btn now tracking AP selected VS
 [P3D] VSI bug/btn now tracking AP selected VS
 [MSFS] VSI bug/btn now tracking AP selected VS
+[BASE] Improved logging for various hardware types. 
 
 Version 2.2.21 (1/19/25)
 -Allow for integrators to skip NDB entirely. 
@@ -51,6 +51,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
