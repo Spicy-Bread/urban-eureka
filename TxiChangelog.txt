@@ -6,6 +6,7 @@ Version 2.2.22(01/24/2026)
 [P3D] VSI bug/btn now tracking AP selected VS
 [MSFS] VSI bug/btn now tracking AP selected VS
 [BASE] Improved logging for various hardware types. 
+[BASE] Entry boxes clear content when entering new data. 
 
 Version 2.2.21 (1/19/25)
 -Allow for integrators to skip NDB entirely. 
@@ -51,6 +52,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
