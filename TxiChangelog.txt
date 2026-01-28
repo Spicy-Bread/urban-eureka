@@ -1,5 +1,6 @@
 Version 2.2.23(PLANNED)
-[BASE] Added Splash Screen window when loading
+[BASE] Added Splash Screen window when loading.
+[BASE] Improved click region on numerical entry buttons. 
 [P3D] Kholsman Window now setting to proper value. 
 
 Version 2.2.22(01/24/2026)
@@ -56,6 +57,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
