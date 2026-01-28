@@ -1,3 +1,7 @@
+Version 2.2.23(PLANNED)
+[BASE] Added Splash Screen window when loading
+[P3D] Kholsman Window now setting to proper value. 
+
 Version 2.2.22(01/24/2026)
 [BASE] PFD Menu, HDG, ALT, VS, IAS, CRS, BARO entry menus now timeout. 
 [BASE] PFD Menu, HDG, ALT, VS, IAS, CRS, BARO entry menus now clear out after clicking off selected menu.
@@ -52,6 +56,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
