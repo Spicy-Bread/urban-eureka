@@ -1,7 +1,14 @@
-Version 2.2.23(PLANNED)
+Version 2.2.23(01/29/2026)
 [BASE] Added Splash Screen window when loading.
 [BASE] Improved click region on numerical entry buttons. 
-[P3D] Kholsman Window now setting to proper value. 
+[BASE]Fixed issue when tapping VS button on PFD side was not opening the VS entry menu.
+[BASE]Fixed issue when VS mode was entered via knob that the VS entry menu would not show.
+[BASE]When in baro mode when making a numerical entry, the decimal place is auto added.
+[BASE]Backspace button clears entire entry content box when making a numerical entry.
+[BASE]AHARS Alligment UI render order changed.
+[P3D]Encoder now allows for Autopilot preselction altitude manipulation. 
+[P3D]User can now numerically enter Autopilot preselction altitude
+[P3D] Kholsman/baro now setting to proper value. 
 
 Version 2.2.22(01/24/2026)
 [BASE] PFD Menu, HDG, ALT, VS, IAS, CRS, BARO entry menus now timeout. 
@@ -57,6 +64,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
