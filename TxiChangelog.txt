@@ -1,6 +1,6 @@
 Version 2.2.24(02/04/2026)
 [BASE] Added push to STD for PFD knob when in baro mode. 
-[BASE] Added autoconnection to MSFS, XP, P3D so app does not need be opened prior to the base sim type. 
+[BASE] Added autoconnection to MSFS, XP, P3D so app does not need be opened after the base sim type. 
 
 Version 2.2.23(01/29/2026)
 [BASE] Added Splash Screen window when loading.
@@ -68,6 +68,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
