@@ -1,3 +1,6 @@
+Version 2.2.27(02/05/2026)
+[BASE] Fixed reversed knobs for 3P integrator. 
+
 Version 2.2.26(02/05/2026)
 [BASE] Fixed touchmode showing at incorrect time. 
 
@@ -78,6 +81,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
