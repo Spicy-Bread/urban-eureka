@@ -1,3 +1,10 @@
+Version 2.2.28(02/06/2026)
+[BASE] Added initial Garmin splashscreen on load
+[BASE] VS button now loads with data on init
+[BASE] Numeric Entry number validation
+[XP] XP12 METAR data now collected after sucessful connection to XP and only when Aircraft Postion is fully initalized.
+[P3D] Both positve and negative values can be entered for the vertical speed
+
 Version 2.2.27(02/05/2026)
 [BASE] Fixed reversed knobs for 3P integrator. 
 
@@ -81,6 +88,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
