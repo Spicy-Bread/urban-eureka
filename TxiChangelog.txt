@@ -1,3 +1,6 @@
+Version 2.2.28.4(02/09/2026)
+[BASE] Fixed issues with update not downloading properly.
+
 Version 2.2.28.3(02/09/2026)
 [P3D]Ability to set VOR/NAV course via numeric entry
 [P3D] User can now numerically enter FLC/IAS
@@ -98,6 +101,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
