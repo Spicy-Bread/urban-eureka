@@ -2,9 +2,10 @@
 <item>
   <version>2.2.28.3</version>
   <url>https://www.mediafire.com/file/0irpktfrf935ktp/EZS_TXi_2.2.28.3.zip/file</url>
-  <mandatory>true</mandatory>
-  <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+  <mandatory mode="2">true</mandatory>
+  <changelog>https://raw.githubusercontent.com/Spicy-Bread/urban-eureka/refs/heads/main/TxiChangelog.txt</changelog>
 </item>
+
 
 
 
