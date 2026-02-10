@@ -1,3 +1,6 @@
+Version 2.2.28.5(02/10/2026)
+[BASE] Fixed Touch mode being visible at wrong time for certian 3P integrators. 
+
 Version 2.2.28.4(02/10/2026)
 [BASE] Fixed issues with update not downloading properly.
 
@@ -101,6 +104,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
