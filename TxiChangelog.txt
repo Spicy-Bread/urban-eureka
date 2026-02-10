@@ -1,3 +1,13 @@
+Version 2.2.28.3(02/09/2026)
+[P3D]Ability to set VOR/NAV course via numeric entry
+[P3D] User can now numerically enter FLC/IAS
+[BASE] User can now push to sync IAS/FLC
+[BASE] STD Baro preset button added for set to preset value(value before entering STD baro mode)
+[BASE] PFD knob VS Mode push sync now working.
+[BASE] Baro Label blinks when above 18000 to indicate above STD setting should be applied
+
+
+
 Version 2.2.28(02/06/2026)
 [BASE] Added initial Garmin splashscreen on load
 [BASE] VS button now loads with data on init
@@ -88,6 +98,7 @@ Version 2.1.0
 -Heading sync working P3D
 -When entering Vertical Airspeed the "00" button is now working as intended. 
 -Push to sync encoder when in HDG mode working. 
+
 
 
 
