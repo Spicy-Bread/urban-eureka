@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.2.28.5</version>
-  <url>https://www.mediafire.com/file/zwbxmuku7m330q0/EZS_TXi_2.2.28.5.zip/file</url>
+  <version>2.2.28.6</version>
+  <url>https://www.mediafire.com/file/tusww8xjdzr2n9i/EZS_TXi_2.2.28.6.zip/file</url>
   <mandatory mode="2">true</mandatory>
   <changelog>https://raw.githubusercontent.com/Spicy-Bread/urban-eureka/refs/heads/main/TxiChangelog.txt</changelog>
 </item>
+
 
 
 
